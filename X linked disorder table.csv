@@ -1,0 +1,138 @@
+Key,Name,OMIM ID,OMIM names,Incidence,Male incidence,Female incidence,Total cases reported,Inhertiance pattern,Gender bias,Population,Number of genes,Genes,Gender bias note,Gender bias note,Severity,"Onset age (birth, childhood, adulthood)",Age of death,"Dominant tissue (e.g., blood, lung etc)",Autoimmune,Intellectual disability,Cancer
+95,triple X syndrome,0,0,,,0.001,,denovo,F,,0,,,Exclusively,Unknown,Birth,,Many,0,0,0
+107,Turner syndrome,0,0,,,0.0004,,denovo,F,,1,SHOX,,Exclusively,Impairing,Birth,,Many,0,0,0
+117,Y chromosome infertility,"400042, 415000","SPERMATOGENIC FAILURE, Y-LINKED, ::SPERMATOGENIC FAILURE, Y-LINKED, ",,0.0005,,,denovo,M,,1,USP9Y,,Exclusively,Impairing,Birth,,Reproductive system,0,0,1
+118,Klinefelter syndrome,0,0,,0.002,,,denovo,M,,0,,,Exclusively,Impairing,Birth,,Many,0,0,1
+119,"48,XXYY syndrome",0,0,,5.55556E-05,,,denovo,M,,0,,,Exclusively,Impairing,Birth,,Many,0,0,0
+120,"47,XYY syndrome",0,0,,0.001,,,denovo,M,,0,,,Exclusively,Impairing,Birth,,Many,0,0,0
+121,"46,XX testicular disorder of sex development",400045,"46,XX SEX REVERSAL ",,0.00005,,,denovo,F,,1,SRY,,Exclusively,Impairing,Birth,,Many,0,0,1
+4,X-linked infantile spasm syndrome,"308350, 300672","EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, ::EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, ",0.000016,,,,XLD,,,2,"ARX, CDKL5",,,Impairing,Childhood,,Nervous system,0,1,0
+8,X-linked chondrodysplasia punctata 2,302960,"CHONDRODYSPLASIA PUNCTATA 2, X-LINKED ",0.0000025,,,,XLD,F,,1,EBP,Rare male cases,Exclusively,Severe,Birth,,"Bone, skin, eye",0,0,0
+18,fragile XE syndrome,309548,"MENTAL RETARDATION, X-LINKED, ASSOCIATED WITH FRAGILE SITE ",,0.00004,,,XLD,,,1,AFF2,Mild in females,,Impairing,Birth,,Brain,0,1,0
+24,CASK-related intellectual disability,"300422, 300749",FG SYNDROME ::MENTAL RETARDATION AND MICROCEPHALY WITH PONTINE AND CEREBELLAR ,,,,50,XLD,F,,2,"CASK, FRMD7",Mild in females,,Mild,Birth,,Brain,0,1,1
+25,fragile X syndrome,309550,FMR1 ,,0.00025,0.000125,,XLD,,,1,FMR1,Mild in females,More,Unknown,Birth,,Brain,0,1,0
+30,hereditary hypophosphatemic rickets,"307800, 300554","HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT ::HYPOPHOSPHATEMIC RICKETS, X-LINKED RECESSIVE",0.00005,,,,XLD,,,2,"PHEX, FGF23",,,Impairing,Childhood,,Bone,0,0,0
+45,HSD10 deficiency,"300438, 300438",17-BETA-HYDROXYSTEROID DEHYDROGENASE X ::17-BETA-HYDROXYSTEROID DEHYDROGENASE X ,,,,11,XLD,,,1,HSD17B10,Mild in females,,Impairing,Childhood,,Many,0,1,0
+59,Coffin-Lowry syndrome,303600,COFFIN-LOWRY ,0.000025,,,,XLD,,,1,RPS6KA3,Mild in females,,Impairing,Birth,,Many,0,1,0
+64,FXPOI,311360,PREMATURE OVARIAN FAILURE ,,,0.00125,,XLD,F,,1,FMR1,,,Range,Adulthood,,Ovary,0,0,1
+67,Melnick-Needles syndrome,309350,MELNICK-NEEDLES ,,,,100,XLD,,,1,FLNA,Mild in females,,Severe,Birth,Birth,Bone,0,0,1
+68,frontometaphyseal dysplasia,305620,FRONTOMETAPHYSEAL DYSPLASIA,,,,Rare,XLD,,,1,FLNA,Mild in females,,Impairing,Birth,,Bone,0,0,0
+69,otopalatodigital syndrome type 1,311300,"OTOPALATODIGITAL SYNDROME, TYPE I",0.00001,,,,XLD,,,1,FLNA,Mild in females,,Impairing,Birth,,Bone,0,0,0
+70,otopalatodigital syndrome type 2,304120,"OTOPALATODIGITAL SYNDROME, TYPE II",0.00001,,,,XLD,,,1,FLNA,Mild in females,,Severe,Birth,Childhood,Bone,0,0,0
+72,periventricular heterotopia,300049,PERIVENTRICULAR NODULAR HETEROTOPIA 1,,,,Rare,XLD,,,1,FLNA,,,Range,Birth,,Nervous system,0,1,1
+75,congenital fiber-type disproportion,300580,"MYOPATHY, CONGENITAL, WITH FIBER-TYPE DISPROPORTION, X-LINKED",,,,Rare,XLD,,,3,"TPM3, RYR1, ACTA1",,,Range,Birth,Range,Skeletal muscle,0,0,0
+77,Alport syndrome,301050,"ALPORT SYNDROME, X-LINKED",0.00002,,,,XLD,,,3,"COL4A3, COL4A4, COL4A5",Mild in females,,Impairing,Birth,,Many,0,0,1
+80,FXTAS,300623,FRAGILE X TREMOR/ATAXIA ,,0.000888889,0.0008,,XLD,,,1,FMR1,Mild in females,More frequent,Impairing,Adulthood,,Brain,0,0,0
+84,Cornelia de Lange syndrome,"300590, 300882",CORNELIA DE LANGE SYNDROME 2 ::CORNELIA DE LANGE SYNDROME 5,0.0001,,,,XLD,,,2,"SMC1A, HDAC8",,,Range,Birth,,Many,0,1,0
+93,amelogenesis imperfecta,301200,"AMELOGENESIS IMPERFECTA, TYPE IE",7.14286E-05,,,,XLD,,,1,AMELX,,,Impairing,Birth,,Bone,0,0,0
+98,Aicardi syndrome,304050,AICARDI ,9.52381E-06,,,4000,XLD,F,,0,,,Exclusively,Severe,Birth,Range,Brain,0,1,1
+99,polymicrogyria,300388,"POLYMICROGYRIA, BILATERAL PERISYLVIAN, X-LINKED",,,,Rare,XLD,,,1,ADGRG1,,,Range,Birth,,Brain,0,1,0
+102,Danon disease,300257,DANON ,,,,Rare,XLD,,,1,LAMP2,Mild in females,,Severe,Childhood,Adulthood,Heart,0,1,0
+104,Kabuki syndrome,300867,KABUKI SYNDROME 2,0.00003125,,,,XLD,,,1,KDM6A,,,Impairing,Birth,,Many,0,1,0
+108,microphthalmia with linear skin defects syndrome,309801,LINEAR SKIN DEFECTS WITH MULTIPLE CONGENITAL ANOMALIES ,,,,50,XLD,F,,1,HCCS,,Exclusively,Impairing,Birth,,Retina,0,0,1
+109,Rett syndrome,312750,RETT ,,,0.000117647,,XLD,F,,2,"MECP2, FOXG1",,Exclusively,Impairing,Childhood,,Brain,0,0,0
+110,CHILD syndrome,308050,CONGENITAL HEMIDYSPLASIA WITH ICHTHYOSIFORM ERYTHRODERMA AND LIMB ,,,,60,XLD,F,,1,NSDHL,One male case ever reported,Exclusively,Impairing,Birth,,Many,0,0,0
+111,focal dermal hypoplasia,305600,FOCAL DERMAL ,,,,Rare,XLD,F,,1,PORCN,Mild in males,90%,Range,Birth,,Many,0,1,0
+112,incontinentia pigmenti,308300,INCONTINENTIA ,,,,1200,XLD,F,,1,IKBKG,,More often,Impairing,Birth,,Skin,0,1,1
+113,porphyria,300752,"PROTOPORPHYRIA, ERYTHROPOIETIC, X-LINKED",,,,,XLD,,,1,ALAS2,,,Range,Birth,,Blood,0,0,1
+115,oculofaciocardiodental syndrome,300166,"MICROPHTHALMIA, SYNDROMIC ",0.000001,,,,XLD,F,,1,BCOR,,Only,Impairing,Birth,,Many,0,0,0
+116,amyotrophic lateral sclerosis,300857,AMYOTROPHIC LATERAL SCLEROSIS 15 WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA,0.00005,,,,XLD,,,1,UBQLN2,,,Severe,Adulthood,Adulthood,Nervous system,0,1,1
+122,oral-facial-digital syndrome,311200,OROFACIODIGITAL SYNDROME I,0.00002,,,,XLD,F,,1,OFD1,"Rare male cases, die in infancy",Exclusively,Impairing,Birth,,Many,0,1,1
+11,X-linked lissencephaly with abnormal genitalia,300215,"LISSENCEPHALY, X-LINKED, ",,,,30,XLP,M,,1,ARX,,Most often,Severe,Birth,Childhood,"Brain, genitalia",0,1,0
+17,isolated lissencephaly sequence,300067,"LISSENCEPHALY, X-LINKED, ",0.00001,,,,XLP,,,1,DCX,,,Severe,Birth,,Brain,0,1,0
+37,coloboma,300345,"MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 1",0.0001,,,,XLP,,,0,,,,Impairing,Birth,,Retina,0,0,1
+76,inherited thyroxine-binding globulin deficiency,314200,THYROXINE-BINDING GLOBULIN OF ,0.00025,,,,XLP,,Australian Aborigine population and in the Bedouin population of southern Israel,1,SERPINA7,,,Mild,Birth,,Thyroid,0,0,1
+78,Fabry disease,301500,FABRY DISEASE,,0.000025,,,XLP,M,,1,GLA,,,Range,Birth,,Fat,0,0,0
+83,nonsyndromic hearing loss,"304500, 304400, 300030, 300066, 300614, 300914","DEAFNESS, X-LINKED ::DEAFNESS, X-LINKED 2 ::DEAFNESS, X-LINKED 3 ::DEAFNESS, X-LINKED 4 ::DEAFNESS, X-LINKED 5 ::DEAFNESS, X-LINKED 6",0.003,,,,XLP,,,5,"PRPS1, POU3F4, SMPX, AIFM1, COL4A6",,,Impairing,Range,,Ear,0,0,0
+94,Charcot-Marie-Tooth disease,"302800, 311070","CHARCOT-MARIE-TOOTH DISEASE, X-LINKED DOMINANT, 1 ::CHARCOT-MARIE-TOOTH DISEASE, X-LINKED RECESSIVE, 5",0.0004,,,,XLP,,,2,"GJB1, PRPS1",,,Impairing,Adulthood,,Nervous system,0,1,0
+97,ocular albinism,"300500, 300650","ALBINISM, OCULAR, TYPE I ::ALBINISM, OCULAR, WITH LATE-ONSET SENSORINEURAL DEAFNESS",,,,,XLP,,,1,GPR143,,,Impairing,Birth,,Retina,0,0,0
+131,X-linked dilated cardiomyopathy,302045,"CARDIOMYOPATHY, DILATED, ",,,,Rare,XLP,,,1,DMD,,,Severe,Childhood,Adolescence,Heart,0,0,0
+132,X-linked infantile nystagmus,310700,"NYSTAGMUS 1, CONGENITAL, ",,,,Rare,XLP,,,1,FRMD7,,,Range,Birth,,Eyes,0,0,0
+1,X-linked creatine deficiency,300352,CEREBRAL CREATINE DEFICIENCY SYNDROME ,,,,150,XLR,M,,1,SLC6A8,,,Range,Childhood/birth,,Brain,0,1,0
+2,X-linked congenital stationary night blindness,"310500, 300071","NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE ::NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE ",,,,,XLR,,Dutch-German Mennonite,2,"NYX, CACNA1F",,,Impairing,Birth,,Retina,0,0,0
+3,X-linked hyper IgM syndrome,308230,IMMUNODEFICIENCY WITH HYPER-I,,0.000002,,,XLR,M,,1,CD40LG,,,Range,Birth,Adolescence,Immune system,1,0,1
+5,X-linked spondyloepiphyseal dysplasia tarda,313400,"SPONDYLOEPIPHYSEAL DYSPLASIA TARDA, ",6.66667E-06,,,,XLR,M,,1,TRAPPC2,,,Impairing,Childhood,,Bone,0,0,0
+6,X-linked SCID,300400,"SEVERE COMBINED IMMUNODEFICIENCY, ",0.00002,,,,XLR,M,,1,IL2RG,,,Severe,Birth,Childhood,Immune system,0,0,0
+7,X-linked adrenal hypoplasia congenita,300200,"ADRENAL HYPOPLASIA, ",0.00008,,,,XLR,M,,1,NR0B1,,Mainly,Range,Childhood,,Endocrine system,0,0,0
+9,X-linked chondrodysplasia punctata 1,302950,"CHONDRODYSPLASIA PUNCTATA 1, X-LINKED ",,,,12,XLR,M,,1,ARSE,,Exclusively,Impairing,Birth,Normal,Bone,0,0,0
+10,X-linked cardiac valvular dysplasia,314400,"CARDIAC VALVULAR DYSPLASIA, ",0.03,,,,XLR,,,1,FLNA,Mild in females,More often,Impairing,Birth,,Heart,0,0,0
+12,spastic paraplegia type 2,312920,"SPASTIC PARAPLEGIA 2, ",0.00006,,,,XLR,,,1,PLP1,,,Impairing,Childhood,Normal,Muscle,0,1,0
+13,Christianson syndrome,300243,"MENTAL RETARDATION, X-LINKED, SYNDROMIC, CHRISTIANSON ",,,,,XLR,,,1,SLC9A6,,,Impairing,Childhood,,Nervous system,0,1,0
+14,Partington syndrome,309510,PARTINGTON X-LINKED MENTAL RETARDATION ,,,,20,XLR,,,1,ARX,Mild in females,,Range,Birth,,Nervous system,0,1,0
+15,L1 syndrome,"304100, 307000, 303350","CORPUS CALLOSUM, PARTIAL AGENESIS OF, ::HYDROCEPHALUS DUE TO CONGENITAL STENOSIS OF AQUEDUCT OF ::MASA ",,0.00004,,,XLR,M,,1,L1CAM,,,Range,Birth,,Nervous system,0,1,0
+16,"X-linked intellectual disability, Siderius type",300263,SIDERIUS X-LINKED MENTAL RETARDATION ,,,,,XLR,M,,1,PHF8,,Only,Impairing,Birth,,Brain,0,1,0
+19,Snyder-Robinson syndrome,309583,"MENTAL RETARDATION, X-LINKED, SYNDROMIC, SNYDER-ROBINSON ",,,,10,XLR,M,,1,SMS,,Exclusively,Impairing,Birth,,"Brain, muscle, bone",0,1,0
+20,X-linked sideroblastic anemia and ataxia,301310,"ANEMIA, SIDEROBLASTIC, AND SPINOCEREBELLAR ",,,,Rare,XLR,M,,1,ABCB7,,Only,Impairing,Birth,,Blood,0,0,1
+21,IPEX syndrome,304790,"IMMUNODYSREGULATION, POLYENDOCRINOPATHY, AND ENTEROPATHY, ",,,,Rare,XLR,M,,1,FOXP3,,Most,Severe,Birth,,Immune system,1,0,1
+22,alpha thalassemia X-linked intellectual disability syndrome,301040,"ALPHA-THALASSEMIA/MENTAL RETARDATION SYNDROME, ",,,,200,XLR,M,,3,"ATRX, HBA1, HBA2",,Exclusively,Severe,Birth,,Many,0,1,0
+23,MECP2 duplication syndrome,300260,LUBS X-LINKED MENTAL RETARDATION ,,,,120,XLR,M,,1,MECP2,,Exclusively,Severe,Birth,Adulthood,Brain,0,1,0
+26,FG syndrome,"300321, 300406, 300422, 300581, 305450",FG SYNDROME ::FG SYNDROME ::FG SYNDROME ::FG SYNDROME ::OPITZ-KAVEGGIA ,,,,,XLR,M,,1,MED12,,Exclusively,Impairing,Birth,,Brain,0,1,0
+27,Renpenning syndrome,309500,RENPENNING SYNDROME ,,,,60,XLR,M,,1,PQBP1,,Exclusively,Impairing,Birth,,Brain,0,1,0
+28,Menkes syndrome,"309400, 304150",MENKES ::OCCIPITAL HORN ,0.00001,,,,XLR,,,1,ATP7A,,,Severe,Birth,Childhood,Many,0,1,0
+29,Lenz microphthalmia syndrome,309800,"MICROPHTHALMIA, SYNDROMIC ",,,,Rare,XLR,M,,1,BCOR,,Exclusively,Range,Birth,,Eyes,0,1,1
+31,Lujan syndrome,309520,LUJAN-FRYNS ,,,,Rare,XLR,M,,1,MED12,,Exclusively,Impairing,Birth,,Brain,0,1,1
+32,dyserythropoietic anemia and thrombocytopenia,300367,"THROMBOCYTOPENIA, X-LINKED, WITH OR WITHOUT DYSERYTHROPOIETIC ",,,,Rare,XLR,M,,1,GATA1,,Primarily,Impairing,Birth,,Blood,0,0,1
+33,spinal and bulbar muscular atrophy,313200,"SPINAL AND BULBAR MUSCULAR ATROPHY, X-LINKED ",,6.66667E-06,,,XLR,M,,1,AR,,Mainly,Impairing,Adulthood,,Motor neurons,0,0,0
+34,Norrie disease,310600,NORRIE ,,,,Rare,XLR,,,1,NDP,,,Impairing,Birth,,Retina,0,1,0
+35,Allan-Herndon-Dudley syndrome,300523,ALLAN-HERNDON-DUDLEY ,,,,25,XLR,M,,1,SLC16A2,,Exclusively,Impairing,Birth,,Brain,0,1,0
+36,"Ohdo syndrome, Maat-Kievit-Brunner type",300895,"OHDO SYNDROME, ",,,,Rare,XLR,M,,1,MED12,,Only,Impairing,Birth,,Brain,0,1,0
+38,osteopetrosis,300301,"ECTODERMAL DYSPLASIA, ANHIDROTIC, WITH IMMUNODEFICIENCY, OSTEOPETROSIS, AND LYMPHEDEMA",,,,Rare,XLR,,,1,IKBKG,,,Range,Birth,,Bone,0,1,0
+39,XMEN,300853,"IMMUNODEFICIENCY, X-LINKED, WITH MAGNESIUM DEFECT, EPSTEIN-BARR VIRUS INFECTION, AND ",,,,Rare,XLR,M,,1,MAGT1,,Exclusively,Range,Birth,,Immune system,0,0,1
+40,Pelizaeus-Merzbacher disease,312080,PELIZAEUS-MERZBACHER ,,0.000005,,,XLR,M,,1,PLP1,,,Range,Childhood,,Nervous system,0,1,0
+41,choroideremia,303100,,0.00002,,,,XLR,,,1,CHM,,Mainly,Impairing,Childhood,,Retina,0,0,0
+42,Emery-Dreifuss muscular dystrophy,310300,"EMERY-DREIFUSS MUSCULAR DYSTROPHY 1, ",0.00001,,,,XLR,,,2,"EMD, LMNA",,,Range,Childhood,,"Skeletal muscle, heart",0,0,0
+43,cutis laxa,304150,OCCIPITAL HORN SYNDROME,,,,200,XLR,,,1,ATP7A,,,Mild,Birth,,Connective tissue,0,1,0
+44,PPM-X syndrome,300055,"MENTAL RETARDATION, X-LINKED, SYNDROMIC ",,,,,XLR,,,1,MECP2,Mild in females,,Impairing,Birth,,Brain,0,1,0
+46,phosphoglycerate kinase deficiency,300653,PHOSPHOGLYCERATE KINASE 1 ,,,,30,XLR,,,1,PGK1,,,Range,Birth,,Blood,0,1,0
+47,MECP2-related severe neonatal encephalopathy,300673,"ENCEPHALOPATHY, NEONATAL SEVERE, DUE TO MECP2 MUTATIONS",,,,30,XLR,M,,1,MECP2,,Primarily,Range,Birth,Childhood,Brain,0,1,0
+48,Duchenne and Becker muscular dystrophy,"300376, 310200","MUSCULAR DYSTROPHY, BECKER ::MUSCULAR DYSTROPHY, DUCHENNE ",,0.000285714,,,XLR,M,,1,DMD,,Exclusively,Range,Childhood,Adulthood,"Skeletal muscle, heart",0,0,0
+49,anhidrotic ectodermal dysplasia with immune deficiency,300291,"ECTODERMAL DYSPLASIA, HYPOHIDROTIC, WITH IMMUNE ",0.000004,,,,XLR,,,2,"IKBKG, NFKBIA",,,Range,Birth,Childhood,"Immune system, ectodermal",0,0,1
+50,retinitis pigmentosa,268000,RETINITIS ,0.000285714,,,,XLR,,,4,"RHO, USH2A, RPGR, RP2",,,Impairing,Childhood,,Retina,0,0,0
+51,Fanconi anemia,300514,"FANCONI ANEMIA, COMPLEMENTATION GROUP B",0.00000625,,,,XLR,," Ashkenazi Jewish descent, the Roma population of Spain, and black South Africans.",1,FAAP95,,,Range,Birth,,Many,0,0,1
+52,Lesch-Nyhan syndrome,"300323, 300322",KELLEY-SEEGMILLER ::LESCH-NYHAN,2.63158E-06,,,,XLR,M,,1,HPRT1,,Exclusively,Impairing,Birth,,Many,0,0,0
+53,deafness-dystonia-optic neuronopathy syndrome,304700,MOHR-TRANEBJAERG,,,,70,XLR,M,,1,TIMM8A,,Exclusively,Range,Childhood,Adulthood,Nervous system,0,0,0
+54,McLeod neuroacanthocytosis syndrome,314850,"KELL BLOOD GROUP PROTEIN, MCLEOD ",,,,150,XLR,M,,1,XK,,Exclusively,Range,Adulthood,,Blood,0,1,0
+55,severe congenital neutropenia,300299,"NEUTROPENIA, SEVERE CONGENITAL, X-LINKED",0.000005,,,,XLR,,,1,WAS,,,Range,Birth,,Immune system,0,0,1
+56,Aarskog-Scott syndrome,305400,AARSKOG-SCOTT ,,,,Rare,XLR,M,,1,FGD1,Mild in females,Mainly,Range,Birth,,Many,0,1,0
+57,glucose-6-phosphate dehydrogenase deficiency,305900,GLUCOSE-6-PHOSPHATE ,,,,4.00E+08,XLR,M,,1,G6PD,,Most often,Range,Birth,,Blood,0,0,0
+58,Wiskott-Aldrich syndrome,301000,WISKOTT-ALDRICH ,,0.00001,,,XLR,M,,1,WAS,,Primarily,Impairing,Birth,,Immune system,1,0,1
+60,ornithine transcarbamylase deficiency,311250,"ORNITHINE TRANSCARBAMYLASE DEFICIENCY, HYPERAMMONEMIA DUE ",7.14286E-05,,,,XLR,,,1,OTC,,,Range,Birth,,Many,0,1,1
+61,hypohidrotic ectodermal dysplasia,305100,"ECTODERMAL DYSPLASIA 1, HYPOHIDROTIC, X-LINKED",5.88235E-05,,,,XLR,,,3,"EDA, EDAR, EDARADD",,,Impairing,Birth,,Ectodermal,0,0,1
+62,cone-rod dystrophy,"304020, 300085, 300476","CONE-ROD DYSTROPHY, X-LINKED, 1 ::CONE-ROD DYSTROPHY, X-LINKED, 2 ::CONE-ROD DYSTROPHY, X-LINKED, 3",3.33333E-05,,,,XLR,,,2,"RPGR, CACNA1F",,,Impairing,Childhood,,Retina,0,0,0
+63,Arts syndrome,301835,ARTS ,,,,Rare,XLR,,,1,PRPS1,Mild in females,,Severe,Birth,Childhood,Nervous system,0,1,0
+65,chronic granulomatous disease,306400,"GRANULOMATOUS DISEASE, CHRONIC, X-LINKED",0.000005,,,,XLR,,,1,CYBB,,,Impairing,Birth,Adulthood,Immune system,1,0,1
+66,Opitz G,300000,"OPITZ GBBB SYNDROME, X-LINKED",,0.0001,,,XLR,,,1,MID1,,,Impairing,Childhood,,Many,0,1,1
+71,androgen insensitivity syndrome,300068,ANDROGEN INSENSITIVITY ,,0.00005,,,XLR,M,,1,AR,,Exclusively,Impairing,Birth,,Reproductive system,0,0,1
+73,Lowe syndrome,309000,LOWE OCULOCEREBRORENAL ,0.000002,,,,XLR,M,,1,OCRL,,Exclusively,Impairing,Birth,,Many,0,1,0
+74,Dent disease,"300009, 300555",DENT DISEASE 1 ::DENT DISEASE 2,,,,250,XLR,M,,2,"CLCN5, OCRL",,Exclusively,Impairing,Childhood,,Kidney,0,1,0
+79,PRS superactivity,300661,PHOSPHORIBOSYLPYROPHOSPHATE SYNTHETASE ,,,,30,XLR,,,1,PRPS1,,,Range,Childhood,,Many,0,0,0
+81,intestinal pseudo-obstruction,300048,"INTESTINAL PSEUDOOBSTRUCTION, NEURONAL, CHRONIC IDIOPATHIC, X-LINKED",,,,,XLR,,,1,FLNA,,,Range,Birth,,Digestive tract,0,1,1
+82,mucopolysaccharidosis type II,309900,"MUCOPOLYSACCHARIDOSIS, TYPE ",,0.00001,,,XLR,M,,1,IDS,,Exclusively,Severe,Childhood,Adulthood,Many,0,1,0
+85,hemophilia,"306700, 306900",HEMOPHILIA ::HEMOPHILIA ,,,,,XLR,M,,2,"F8, F9",,,Range,Childhood,,Blood,0,0,0
+86,Joubert syndrome,300804,JOUBERT SYNDROME 10,0.0000125,,,,XLR,,,1,OFD1,,,Range,Birth,,Many,0,1,0
+87,isolated growth hormone deficiency,307200,"ISOLATED GROWTH HORMONE DEFICIENCY, TYPE ::ISOLATED GROWTH HORMONE DEFICIENCY, TYPE ::ISOLATED GROWTH HORMONE DEFICIENCY, TYPE ::ISOLATED GROWTH HORMONE DEFICIENCY, TYPE ",0.00025,,,,XLR,,,1,BTK,,,Impairing,Childhood,,Many,0,0,1
+88,methylmalonic acidemia with homocystinuria,"277400, 277410, 277380, 614857","METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, ::METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, ::METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, ::METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, ",0.000005,,,,XLR,,,5,"MMACHC, MMADHC, LMBRD1, ABCD4, HCFC1",,,Range,Range,,Many,0,1,0
+89,Barth syndrome,302060,BARTH ,3.33333E-06,,,,XLR,M,,1,TAZ,,Exclusively,Severe,Birth,Range,"Skeletal muscle, heart",0,0,0
+90,familial exudative vitreoretinopathy,305390,"EXUDATIVE VITREORETINOPATHY 2, X-LINKED",,,,Rare,XLR,,,1,NDP,,,Impairing,Range,,Retina,0,0,0
+91,glycogen storage disease type IX,"306000, 300559","GLYCOGEN STORAGE DISEASE IXa1 ::GLYCOGEN STORAGE DISEASE, TYPE Ixd",0.00001,,,,XLR,,,2,"PHKA1, PHKA2",,,Impairing,Childhood,,Many,0,0,0
+92,color vision deficiency,"303700, 303800, 303900","BLUE CONE MONOCHROMACY ::COLORBLINDNESS, PARTIAL, DEUTAN ::COLORBLINDNESS, PARTIAL, PROTAN ",,0.083333333,0.005,,XLR,,,3,"OPN1LW, OPN1MW, CBP",,,Impairing,Birth,,Retina,0,0,0
+96,spinal muscular atrophy,301830,"SPINAL MUSCULAR ATROPHY, X-LINKED 2",0.000166667,,,,XLR,,,1,UBA1,,,Impairing,Birth,,Nervous system,0,0,1
+100,nephrogenic diabetes insipidus,304800,"DIABETES INSIPIDUS, NEPHROGENIC, X-LINKED",,,,Rare,XLR,,,1,AVPR2,,,Impairing,Birth,,Kidney,0,0,1
+101,hereditary hyperekplexia,300607,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 8",,,,70,XLR,,,1,GLRA1,,,Unknown,Birth,,Muscle,0,0,0
+103,Kallmann syndrome,"308700, 308750",HYPOGONADOTROPIC HYPOGONADISM 1 WITH OR WITHOUT ::KALLMANN SYNDROME WITH SPASTIC PARAPLEGIA,,3.33333E-05,8.33333E-06,,XLR,,,1,KAL1,,,Impairing,Birth,,Endocrine system,0,0,0
+105,pyruvate dehydrogenase deficiency,312170,PYRUVATE DEHYDROGENASE E1-ALPHA DEFICIENCY,,,,Rare,XLR,,,1,PDHA1,,,Severe,Birth,Childhood,Many,0,1,0
+106,dyskeratosis congenita,305000,"DYSKERATOSIS CONGENITA, X-LINKED",0.000001,,,,XLR,,,1,DKC1,,,Range,Range,,Many,0,0,1
+114,Simpson-Golabi-Behmel syndrome,312870,"SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE ",,,,130,XLR,M,,1,GPC3,,Primarily,Impairing,Birth,,Many,0,1,1
+123,congenital hepatic fibrosis,0,0,,,,Rare,XLR,,,0,,,,Impairing,Birth,,Liver,0,0,1
+126,heterotaxy syndrome,306955,"HETEROTAXY, VISCERAL, 1, X-LINKED",0.0001,,,,XLR,,,1,ZIC3,,,Impairing,Birth,,Many,0,0,0
+127,Swyer syndrome,"400044, 300018","46,XY SEX REVERSAL 1 ::46,XY SEX REVERSAL 2",0.0000125,,,,XLR,F,,2,"SRY, DAX1",,,Unknown,Birth,,Reproductive system,0,0,1
+128,XLP,"308240, 300635","LYMPHOPROLIFERATIVE SYNDROME, X-LINKED, ::LYMPHOPROLIFERATIVE SYNDROME, X-LINKED, ",,0.000001,,,XLR,M,,2,"SH2D1A, XIAP",,,Severe,Birth,Childhood,Immune system,0,0,0
+129,X-linked juvenile retinoschisis,312700,"RETINOSCHISIS 1, X-LINKED, ",,0.0002,,,XLR,M,,1,RS1,,,Impairing,Childhood,,Retina,0,0,0
+130,X-linked dystonia-parkinsonism,314250,"DYSTONIA 3, TORSION, ",,,,500,XLR,M,Filipino,1,TAF1,,,Range,Adulthood,,Muscle,0,0,0
+133,X-linked myotubular myopathy,310400,"MYOPATHY, CENTRONUCLEAR, ",,0.00002,,,XLR,,,1,MTM1,,,Severe,Birth,Childhood,Skeletal muscle,0,0,0
+134,X-linked sideroblastic anemia,300751,"ANEMIA, SIDEROBLASTIC, ",,,,,XLR,,,2,"ALAS2, HFE",,,Range,Adulthood,,Blood,0,0,0
+135,X-linked thrombocytopenia,313900,THROMBOCYTOPENIA ,,0.00001,,,XLR,M,,1,WAS,,,Unknown,Birth,,Blood,1,0,1
+136,X-linked agammaglobulinemia,300755,"AGAMMAGLOBULINEMIA, ",0.00005,,,,XLR,M,,1,BTK,,,Severe,Birth,Adulthood,Immune system,0,0,0
+137,X-linked adrenoleukodystrophy,300100,ADRENOLEUKODYSTROPHY,0.00005,,,,XLR,M,,1,ABCD1,,,Range,Childhood,,Adrenal glands,0,1,1
+124,Langer mesomelic dysplasia,249700,LANGER MESOMELIC ,,,,Rare,XYR,,,2,"SHOX, SHOXY",,,Impairing,Birth,,Bone,0,0,0
+125,Leri-Weill dyschondrosteosis,127300,LERI-WEILL ,,,,Rare,XYR,,,2,"SHOX, SHOXY",More severe in females,,Range,Childhood,,Bone,0,0,0
